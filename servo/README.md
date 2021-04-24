@@ -1,6 +1,6 @@
 # Arduino controlled servo
 
-![Home](.image/arduino_servo.png)
+![servo](.image/arduino_servo.png)
 
 ## Wiring
 

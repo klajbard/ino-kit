@@ -1,5 +1,5 @@
 # NodeMCU GPIO Led
 
-![Home](.image/nodemcu.jpg)
+![nodemcu](.image/nodemcu.jpg)
 
 Tutorial: https://wattaurus.com/posts/arduino-ide

@@ -1,6 +1,6 @@
 # Arduino reading BME-280 sensor
 
-![Home](.image/arduino_bme280.png)
+![arduino_bme280](.image/arduino_bme280.png)
 
 ## I2C communication protocol
 

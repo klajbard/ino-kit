@@ -1,6 +1,6 @@
 # HC-SR04 with buzzer
 
-![Home](.image/uno_hcsr04_buzzer.png)
+![uno_hcsr04_buzzer](.image/uno_hcsr04_buzzer.png)
 
 ## Wiring
 
